@@ -22,7 +22,7 @@ Senior applied ML scientist and technical lead working at the intersection of pr
 I hold dual PhDs in Mathematics and Electrical & Computer Engineering, and I build systems that connect mathematical rigor, scientific modeling, and practical AI/ML delivery.
 
 ## Links
-- LinkedIn: https://www.linkedin.com/in/marzieh-eini
+- LinkedIn: www.linkedin.com/in/marzieheini
 - Google Scholar: https://bit.ly/MEini
 - GitHub: https://github.com/hypatopia
 
