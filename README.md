@@ -23,7 +23,7 @@ I hold dual PhDs in Mathematics and Electrical & Computer Engineering, and I bui
 
 ## Links
 - LinkedIn: www.linkedin.com/in/marzieheini
-- Google Scholar: scholar.google.com/citations?user=wKTbvFgAAAAJ&hl
+- Google Scholar: https://scholar.google.com/citations?user=wKTbvFgAAAAJ&hl
 - GitHub: https://github.com/hypatopia
 
 ## Current Build Themes
