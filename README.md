@@ -1,4 +1,4 @@
-# Hi, I'm Marzieh Eini Keleshteri, PhD
+# Hi, I'm Marzieh Eini, PhD
 
 Senior applied ML scientist and technical lead working at the intersection of probabilistic modeling, scientific machine learning, evaluated AI assistants, and governed model delivery.
 
