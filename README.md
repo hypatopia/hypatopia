@@ -12,7 +12,7 @@ Senior applied ML scientist and technical lead working at the intersection of pr
 ## Flagship Projects
 - **FDA Device Safety Intelligence Platform** — analytics and reporting copilot built on FDA public safety data, MDR workflows, MAUDE event records, and MedWatch / eMDR reporting guidance
 - **VVL-Recon Lab** — physics-guided image reconstruction using a virtual Veselago lens with deep-learning refinement
-- **Mito Agent / AI-Driven Computational Platform** — scientific assistant and computational platform for mitochondrial ETC bioenergetics, calibration, and identifiability analysis
+- **MitoAgent / AI-Driven Computational Platform** — scientific assistant and computational platform for mitochondrial ETC bioenergetics, calibration, and identifiability analysis
 
 ## Research in Progress
 - **MitoAgent companion manuscript in progress**  
