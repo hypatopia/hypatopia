@@ -15,7 +15,7 @@ Senior applied ML scientist and technical lead working at the intersection of pr
 - **Mito Agent / AI-Driven Computational Platform** — scientific assistant and computational platform for mitochondrial ETC bioenergetics, calibration, and identifiability analysis
 
 ## Research in Progress
-- **Mito Agent companion manuscript in progress**  
+- **MitoAgent companion manuscript in progress**  
   *Modeling Mitochondrial Electron Transport Chain Bioenergetics: Focus on Oxygen Consumption in Complex IV: A Calibration Framework, Identifiability Analysis, and AI-Driven Computational Platform*
 
 ## Background
